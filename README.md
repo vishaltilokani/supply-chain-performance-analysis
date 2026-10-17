@@ -41,10 +41,8 @@ An end-to-end supply chain analytics project analyzing delivery performance, pro
 ## Report
 See `Supply_Chain_Performance_ReportAA.pdf` for the complete 10-page analysis, charts, model results, and recommendations.
 
-## Team Members
-- Vishal Tilokani — 23IT1030
-- Rohit Kumar — 23EC1013
-- Shailesh Modak — 23IT1001
+## Done by
+- Vishal Tilokani 
 
 ## Academic Details
 Subject: Data Visualization
