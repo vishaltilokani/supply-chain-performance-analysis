@@ -46,4 +46,5 @@ See `Supply_Chain_Performance_ReportAA.pdf` for the complete 10-page analysis, c
 
 ## Academic Details
 Subject: Data Visualization
+
 Academic Year: 2026–2027
